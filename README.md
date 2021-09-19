@@ -1,3 +1,9 @@
+# React Redux Counter Project
+
+A counter, where users can increase and decrease the amount by 1.
+Similar to another project before, but this time using React Redux instead.
+
+--------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
